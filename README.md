@@ -1,6 +1,7 @@
 ## Overview
 This project implements a deep learning model for multi-class image classification using TensorFlow and Keras. The training was conducted in two distinct phases with an efficient combination of layer structuring and training strategies.
 Builded up dataset for the unseen classes using “Custom Search JSON API” and using bing through “beautifulsoup” 
+
 ![Status](https://img.shields.io/badge/status-research--prototype-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
 ![Framework](https://img.shields.io/badge/framework-TensorFlow%20%7C%20Keras-orange.svg)
