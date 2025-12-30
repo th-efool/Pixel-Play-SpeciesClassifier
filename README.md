@@ -1,7 +1,14 @@
 ## Overview
-
 This project implements a deep learning model for multi-class image classification using TensorFlow and Keras. The training was conducted in two distinct phases with an efficient combination of layer structuring and training strategies.
 Builded up dataset for the unseen classes using “Custom Search JSON API” and using bing through “beautifulsoup” 
+![Status](https://img.shields.io/badge/status-research--prototype-blue.svg)
+![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
+![Framework](https://img.shields.io/badge/framework-TensorFlow%20%7C%20Keras-orange.svg)
+![Model](https://img.shields.io/badge/model-InceptionResNetV2-informational.svg)
+![Task](https://img.shields.io/badge/task-multiclass%20image%20classification-success.svg)
+![Training](https://img.shields.io/badge/training-two--phase%20fine--tuning-lightgrey.svg)
+![Dataset](https://img.shields.io/badge/dataset-custom%20scraped-yellow.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ### Training Phases
 
